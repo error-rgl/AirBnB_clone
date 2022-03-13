@@ -5,9 +5,6 @@
 
 ## Welcome to the AirBnB clone project!
 
-### Authors
-1. Rogelio Conde
-2. Jeshua Cabanillas
 
 ## Description
 <p>
